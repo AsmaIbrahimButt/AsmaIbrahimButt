@@ -1,17 +1,9 @@
-<h1 align="center">Hi,I'm Asma Ibrahim Butt 👋</h1>
-<h3 align="center">I'm a Front End Developer</h3>
+## 1. Hi I'm Asma Ibrahim Butt<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 🔭 I just start working on **suduko game using C++**
+I'm Asma Ibrahim Butt a Front End Developer and Content Creator on [Youtube](https://youtu.be/i2nx5JVsySo).I spend my most of the time on making awesome front end projects and content.
 
-- 🌱 I’m currently learning **Framework react.js**
+:mailbox: Reach me out!
 
-- 👯 I’m looking to collaborate on **Front end projects**
-
-- 💬 Ask me about **Html ,Css, Bootstrap,Javascript**
-
-- 📫 How to reach me **asmaibrahim657@gmail.com**
-
-- ⚡ Fun fact **I love to do Sketching and Calligrapgy!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +12,58 @@
 <a href="https://instagram.com/web_dev112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web_dev112" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently working at @React.js
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for contribution on projects.
+- 📫 How to reach me: asmaibrahim657@gmail.com.
+- 😄 Pronouns: Asma , CodeHub
+- ⚡ Fun fact: I draw sketches and do calligraphy most oftenly.
+
+<br />
+
+
+
+
+#### 1.1.2. Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AsmaIbrahimButt)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+
+#### 1.1.3. What is CodeHub
+
+CodeHUb is a youtub Channel for learning Data Structure And Algorithm and About Web 
+development.  
+
+###  Profile visit
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=AsmaIbrahimButt_color=green&right_color=red)
+
+## github stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaIbrahimButt&hide=contribs.prs&theme=tokyonight)](https://github.com/AsmaIbrahimButt/github-readme-stats)
+
+
+#### 1.1.4. Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+React.js        1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Html     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Css        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C++       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+<!--END_SECTION:waka-->
+
+
+</details>
+
