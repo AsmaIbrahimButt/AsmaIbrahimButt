@@ -55,19 +55,12 @@ development.
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Asma Ibrahim Bu
+      tts Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaIbrahimButt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-#### 1.1.4. Coding Stats
+<a href="https://github.com/AsmaIbrahimButt/github-readme-activity-graph"><img alt="Asma Ibrahim Butt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AsmaIbrahimButt&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-React.js        1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Html     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Css        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-C++       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
 <!--END_SECTION:waka-->
 
 
