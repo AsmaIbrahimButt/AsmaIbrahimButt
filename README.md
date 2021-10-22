@@ -55,9 +55,8 @@ development.
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Asma Ibrahim Bu
-      tts Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaIbrahimButt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Asma Ibrahim Butts Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsmaIbrahimButt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Asma Ibrahim Butt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaIbrahimButt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/AsmaIbrahimButt/github-readme-activity-graph"><img alt="Asma Ibrahim Butt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AsmaIbrahimButt&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
