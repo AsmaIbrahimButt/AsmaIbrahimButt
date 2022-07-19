@@ -43,15 +43,14 @@ I'm Asma Ibrahim Butt a Front End Developer and Content Creator on [Youtube](htt
 
 #### 1.1.3. What is CodeHub
 
-CodeHUb is a youtub Channel for learning Data Structure And Algorithm and About Web 
-development.  
+CodeHUb is a [YouTube Channel](https://www.youtube.com/channel/UCrLRcnWclPxkpeYHDAz12Wg) for learning Data Structure, Algorithm and About Web development.  
 
 ###  Profile visit
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=AsmaIbrahimButt_color=green&right_color=red)
 
 ## github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaIbrahimButt&hide=contribs.prs&theme=tokyonight)](https://github.com/AsmaIbrahimButt/github-readme-stats)
+[![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaIbrahimButt&hide=contribs.prs&theme=tokyonight)](https://github.com/AsmaIbrahimButt/github-readme-stats)
 ## 📊 My Github Stats
 
   <br/>
@@ -59,8 +58,6 @@ development.
   <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Asma Ibrahim Butt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaIbrahimButt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/AsmaIbrahimButt/github-readme-activity-graph"><img alt="Asma Ibrahim Butt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AsmaIbrahimButt&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<!--END_SECTION:waka-->
 
 
 </details>
