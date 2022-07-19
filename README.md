@@ -9,9 +9,9 @@ I'm Asma Ibrahim Butt a Front End Developer and Content Creator on [Youtube](htt
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asmaibrahim113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmaibrahim113" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asmabutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmabutt" height="30" width="40" /></a>
-<a href="https://instagram.com/web_dev112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web_dev112" height="30" width="40" /></a>
+<a href="https://twitter.com/asmaibrahim113" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42554663/179643006-4a64aa4f-6adb-4ed5-99d1-d06405c98c4c.svg" alt="asmaibrahim113" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asmabutt" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42554663/179643458-722f212c-b184-4b48-8031-f6e288aca4ef.svg" alt="asmabutt" height="30" width="40" /></a>
+<a href="https://instagram.com/web_dev112" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42554663/179643674-d0711c71-4189-478b-93e3-61c53861c814.svg" alt="web_dev112" height="30" width="40" /></a>
 </p>
 
 
