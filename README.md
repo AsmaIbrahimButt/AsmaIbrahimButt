@@ -9,9 +9,9 @@ I'm Asma Ibrahim Butt a Front End Developer and Content Creator on [Youtube](htt
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asmaibrahim113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmaibrahim113" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asmabutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmabutt" height="30" width="40" /></a>
-<a href="https://instagram.com/web_dev112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web_dev112" height="30" width="40" /></a>
+<a href="https://twitter.com/asmaibrahim113" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42554663/179643006-4a64aa4f-6adb-4ed5-99d1-d06405c98c4c.svg" alt="asmaibrahim113" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asmabutt" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42554663/179643458-722f212c-b184-4b48-8031-f6e288aca4ef.svg" alt="asmabutt" height="30" width="40" /></a>
+<a href="https://instagram.com/web_dev112" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42554663/179643674-d0711c71-4189-478b-93e3-61c53861c814.svg" alt="web_dev112" height="30" width="40" /></a>
 </p>
 
 
@@ -43,15 +43,14 @@ I'm Asma Ibrahim Butt a Front End Developer and Content Creator on [Youtube](htt
 
 #### 1.1.3. What is CodeHub
 
-CodeHUb is a youtub Channel for learning Data Structure And Algorithm and About Web 
-development.  
+CodeHUb is a [YouTube Channel](https://www.youtube.com/channel/UCrLRcnWclPxkpeYHDAz12Wg) for learning Data Structure, Algorithm and About Web development.  
 
 ###  Profile visit
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=AsmaIbrahimButt_color=green&right_color=red)
 
 ## github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaIbrahimButt&hide=contribs.prs&theme=tokyonight)](https://github.com/AsmaIbrahimButt/github-readme-stats)
+[![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaIbrahimButt&hide=contribs.prs&theme=tokyonight)](https://github.com/AsmaIbrahimButt/github-readme-stats)
 ## 📊 My Github Stats
 
   <br/>
@@ -59,8 +58,6 @@ development.
   <a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Asma Ibrahim Butt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaIbrahimButt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/AsmaIbrahimButt/github-readme-activity-graph"><img alt="Asma Ibrahim Butt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AsmaIbrahimButt&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<!--END_SECTION:waka-->
 
 
 </details>
