@@ -1,12 +1,12 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)]
+![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
 <h1 align="center">Hi 👋, I'm Asma Butt</h1>
 <h3 align="center">A passionate Full Stack Developer | UX/UI |Graphic Designer</h3>
 <img  src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" align="right" alt="Coding" width="400" src="">
 
 
-<p align="left"> <img src="" alt="asmabutt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/asma-butt-4063a31a6/" target="blank"><img src="" alt="asmabutt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
 - 🔭 I’m currently working on **Social Welfare System**
 
