@@ -1,10 +1,10 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
+[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)]
 <h1 align="center">Hi 👋, I'm Asma Butt</h1>
 <h3 align="center">A passionate Full Stack Developer | UX/UI |Graphic Designer</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img  src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" align="right" alt="Coding" width="400" src="">
 
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/torus_dribbble_1_still_2x.gif?compress=1&resize=400x300" alt="asmabutt" /> </p>
+<p align="left"> <img src="" alt="asmabutt" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/asma-butt-4063a31a6/" target="blank"><img src="" alt="asmabutt" /></a> </p>
 
