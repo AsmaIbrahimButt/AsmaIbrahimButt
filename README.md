@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="">
 
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F615374736573846166%2F&psig=AOvVaw0n9HzO5e3XHEnTUSlSAxkv&ust=1665296216774000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjhjf79z_oCFQAAAAAdAAAAABAE" alt="asmabutt" /> </p>
+<p align="left"> <img src="" alt="asmabutt" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/asma-butt-4063a31a6/" target="blank"><img src="https://cdn.dribbble.com/users/427857/screenshots/16181208/media/73c4efbf90e1bd8011ea9b2b9e422e77.mp4" alt="asmabutt" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/asma-butt-4063a31a6/" target="blank"><img src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/torus_dribbble_1_still_2x.gif?compress=1&resize=400x300" alt="asmabutt" /></a> </p>
 
 - 🔭 I’m currently working on **Social Welfare System**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **asmabuttdev@gmail.cm**
 
