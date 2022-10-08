@@ -1,12 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Asma Butt</h1>
 <h3 align="center">A passionate Full Stack Developer | UX/UI |Graphic Designer</h3>
 <img align="right" alt="Coding" width="400" src="">
 
 
-<p align="left"> <img src="" alt="asmabutt" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/torus_dribbble_1_still_2x.gif?compress=1&resize=400x300" alt="asmabutt" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/asma-butt-4063a31a6/" target="blank"><img src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/torus_dribbble_1_still_2x.gif?compress=1&resize=400x300" alt="asmabutt" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/asma-butt-4063a31a6/" target="blank"><img src="" alt="asmabutt" /></a> </p>
 
 - 🔭 I’m currently working on **Social Welfare System**
 
